@@ -123,4 +123,5 @@ lamp: {
     fontWeight: 'bold',
   }
 });
+//Projeto
 //rodar-> android studio device manager, ligar; cmd-> npx expo start , a, wait -> build and run in android studio, wait -> app running in emulator, click update tip to see new tip. 
